@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Sebastian Calcagno 👨‍💻 </h1>
 <br>
-<h3 align="center">  Actuary | Teacher | Data analyst in constant learning </h3> <br><br>
+<h3 align="center">  Actuary, Professor and Data analyst in constant learning </h3> <br><br>
 
 </p>
 
